@@ -25,7 +25,7 @@ html {
   --text-color-menu-mobile: #e1e1e6;
 }
 
-@media (max-width: 768px) { //reponsividade do menu para celular quando a tela for colocarentre 768 px abaixo
+@media (max-width: 768px) {
   nav .menu {
     display: none;
     position: absolute;

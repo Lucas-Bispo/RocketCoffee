@@ -5,7 +5,7 @@
   <br>
   
   <div align="center">
-    <img alt="Discover" src="https://camo.githubusercontent.com/fb3dfe80e0317c271f3d15312b212f6d475186903c40dbc0fb274de2656feab3/68747470733a2f2f676c6f62616c2d75706c6f6164732e776562666c6f772e636f6d2f3631643833613265626230616530316162393665383431612f3632346635303435326265656339616432363164636164385f6c6f676f2d696d70756c736f2d6e6c772e737667">
+    <img alt="Discover" src="https://user-images.githubusercontent.com/60610011/176043478-08da975a-86e0-4c69-b9cc-461addec3812.png">
     <div>
       <h1>Desafio: RocketCoffee</h1>
       <span>🚀 Discover 🚀</span>

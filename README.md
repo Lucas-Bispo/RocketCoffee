@@ -36,11 +36,11 @@
   
   ## 🔎 Demonstração
   
-  <img alt="Application demo GIF" src=".github/ignite.gif">
+  <img alt="Application demo GIF" src=".github/Coffe.gif">
   
   ## 💻 Como acessar
   
- ## A aplicação está hospedada na  e pode ser acessada [aqui](https://event-plataform-q0tmdoufb-lucas-bispo.vercel.app).##
+ ## A aplicação está hospedada na  e pode ser acessada [aqui](https://rocket-coffee-gray.vercel.app).##
   
   ## 🛠️ Tecnologias utilizadas
   
